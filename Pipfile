@@ -9,6 +9,10 @@ name = "pypi"
 
 pandas = "*"
 jupyterlab = "*"
+sklearn = "*"
+quandl = "*"
+matplotlib = "*"
+black = "*"
 
 
 [dev-packages]
